@@ -1,0 +1,10 @@
+Raj kumar, 18,male, Grade 12, 987 Red Fort Apartments, mumbai, (91) 2109876543, raj.kumar@email.com
+Anil kumar, 16, Male, Grade 10, 654 Gateway Colony, Pune, (91) 1098765432, Anil.kumar@email.com
+Anjali Das, 17, Female, Grade 11, 210 Victoria Road, Chennai, (91) 9876543210, anjali.das@email.com
+Mohan Patel, 15, Male, Grade 9, 123 Lotus Nagar, Surat, (91) 8765432109, mohan.patel@email.com
+Nisha Rao, 16, Female, Grade 10, 456 Rose Garden, Lucknow, (91) 7654321098, nisha.rao@email.com
+manoj Mehta, 17, Male, Grade 11, 789 Himalaya Heights, Dehradun, (91) 6543210987, manoj.mehta@email.com
+Sree Nair, 14, Female, Grade 8, 321 Coconut Avenue, Kochi, (91) 5432109876, sree.nair@email.com
+Vikas Yadav, 16, Male, Grade 10, 567 Taj Mahal Road, Varanasi, (91) 4321098765, vikas.yadav@email.com
+Priyanka Sharma, 17, Female, Grade 11, 890 Red Fort Colony, Bhopal, (91) 3210987654, priyanka.sharma@email.com
+Karan kumar, 16, Male, Grade 10, 654 Marine Drive, Mumbai, (91) 9876543210 , karan.kumar@email.com 
